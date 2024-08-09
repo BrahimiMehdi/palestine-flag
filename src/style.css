@@ -1,0 +1,21 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+html,
+body
+{
+    background: #3b3b3b;
+    overflow: hidden;
+}
+
+.webgl
+{
+    background: #3b3b3b;
+    position: fixed;
+    top: 0;
+    left: 0;
+    outline: none;
+}
